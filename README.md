@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/yashaswini-mullalli-3082a6330/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yashaswinimullalli4@gmail.com">
+  <a href="yashaswinimullalli4@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
 </p>
