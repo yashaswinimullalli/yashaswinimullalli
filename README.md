@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yashaswini</h1>
 <h3 align="center">Information Science Student |Full Stack Developer | AI/ML Enthusiast | DSA Learner</h3>
 
+<p align: center>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashaswini-mullalli-3082a6330/)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)]
+
+</p>
+
+
+
 
 
   <br>`Python` `C` `C++`  <br><br>### 🌐 Frontend  <br>`HTML` `CSS` `React` `Bootstrap` `Tailwind CSS`  <br><br>### ⚙️ Backend  <br>`Node.js` `Express.js`  <br><br>### 🧩 Middleware & Concepts  <br>`Authentication` `REST APIs` `Routing` `JWT` `MVC Architecture`  <br><br>### 🛢️ Databases  <br>`MongoDB` `MySQL`  <br><br>### 🛠️ Tools  <br>`Git` `GitHub` `VS Code` `Figma` `AI Tools`  
