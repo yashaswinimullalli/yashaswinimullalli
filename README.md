@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yashaswini</h1>
 <h3 align="center">Information Science Student |Full Stack Developer | AI/ML Enthusiast | DSA Learner</h3>
 
-<p align: center>
+## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashaswini-mullalli-3082a6330/)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)]
-
-</p>
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:yashaswinimullalli4@gmail.com)
 
 
 
