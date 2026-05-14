@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashaswini</h1>
 
 <h3 align="center">
-🎓 Information Science Student | 🧠 DSA Enthusiast | 🌐 Full Stack Developer | 🚀 Aspiring Open Source Contributor
+🎓 Information Science Student | 🧠 DSA Enthusiast | 🌐 Full Stack Developer | 🚀  Open Source Contributor
 </h3>
 
 <p align="center">
