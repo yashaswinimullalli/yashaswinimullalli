@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashaswini</h1>
 
 <h3 align="center">
-🎓 Information Science Student | 🌐 Full Stack Developer  |🐧 Linux | 🌐 Computer Networks | ☁️ Cloud & Virtualization || AI/Ml explore
+🎓 Information Science Student | 🌐 Full Stack Developer  |🐧 Linux | 🌐 Computer Networks | ☁️ Cloud & Virtualization | AI/Ml explore
 </h3>
 
 <p align="center">
